@@ -1,11 +1,13 @@
-import Form from "./Form/Form";
+//import Form from "./Form/Form";
+
+import Login from "./Login/Login";
 
 
 
 function App() {
   return (
     <div className="App">
-      <Form/>
+      <Login/>
     </div>
   );
 }
